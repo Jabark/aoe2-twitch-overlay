@@ -1,0 +1,24 @@
+.banner {
+  align-items: center;
+  background-color: black;
+  color: #ff7702;
+  display: inline-flex;
+  font-family: 'Aaargh';
+  font-weight: bold;
+}
+.flag {
+  font-family: 'Flags';
+  font-size: 24px;
+}
+.team {
+  display: inline-block;
+}
+.player {
+  align-items: center;
+  display: inline-flex;
+  margin: 10px;
+
+  .flag {
+    margin-right: 5px;
+  }
+}

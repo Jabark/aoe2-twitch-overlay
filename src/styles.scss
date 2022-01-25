@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: Flags;
+  src:  url('assets/BabelStoneFlags.woff2') format('woff2'),
+        url('assets/BabelStoneFlags.woff') format('woff');
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
